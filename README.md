@@ -34,13 +34,9 @@ Passionate about building secure, scalable, and automated cloud solutions using 
 
 ## 📜 Certifications
 
-<p align="left">
-  <img src="assets/az104.png" width="130"/>
-  <img src="assets/az400.png" width="130"/>
-</p>
-
-* 🏅 Microsoft Certified: Azure Administrator Associate (AZ-104)
 * 🏅 Microsoft Certified: DevOps Engineer Expert (AZ-400)
+* 🏅 Microsoft Certified: Azure Administrator Associate (AZ-104)
+
 
 ---
 
@@ -55,13 +51,6 @@ Passionate about building secure, scalable, and automated cloud solutions using 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
