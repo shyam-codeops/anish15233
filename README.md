@@ -42,12 +42,26 @@ Passionate about building secure, scalable, and automated cloud solutions using 
 
 ## 🔥 Current Focus
 
-* DevSecOps
-* Kubernetes & AKS
-* Terraform Automation
-* CI/CD Pipelines
-* Cloud Security
-* Infrastructure Automation
+- 🔐 DevSecOps
+- ☸️ Kubernetes & AKS
+- 🏗️ Terraform Automation
+- 🚀 CI/CD Pipelines
+- ☁️ Cloud Security
+- ⚙️ Infrastructure Automation
+- 🐳 Docker & Containerization
+- 📦 Helm & Kubernetes Package Management
+- 🔍 Monitoring & Observability (Prometheus, Grafana, Azure Monitor)
+- 🛡️ Security Scanning (SAST, DAST, Container Security)
+- 🔑 Identity & Access Management (IAM, RBAC, Azure AD)
+- 📜 Infrastructure as Code (Terraform, Bicep, ARM)
+- 🤖 GitHub Actions & Azure DevOps
+- 🐧 Linux Administration
+- 💻 PowerShell & Shell Scripting
+- 🌐 Networking & Cloud Architecture
+- 🔄 GitOps & Continuous Deployment
+- 🚨 Incident Response & Reliability Engineering
+- 📊 Logging & Performance Monitoring
+- 🔒 Secrets Management (Key Vault, HashiCorp Vault)
 
 ---
 
