@@ -36,6 +36,8 @@ Passionate about building secure, scalable, and automated cloud solutions using 
 
 * 🏅 Microsoft Certified: DevOps Engineer Expert (AZ-400)
 * 🏅 Microsoft Certified: Azure Administrator Associate (AZ-104)
+* 🏅 HashiCorp Certified: Terraform Associate (In Progress) 
+* 🏅 Certified Kubernetes Administrator (CKA) (In Progress)
 
 
 ---
